@@ -1,26 +1,36 @@
-### Hi there 👋
+# Hi, I'm Kelvin Dumas 👋
 
-Wazap! 🌟 I'm Kelvin! 🚀
+BSc (Hons) Computing Science and IT graduate from CCT College Dublin (2:1), based in Dublin. I combine IT support, cloud, cybersecurity and development with a design and marketing background to build and operate technology that works in the real world.
 
-🎓 A student of IT and Computer Science at CCT College Dublin, passionate about learning and exploring new technologies. Currently, my focus is on developing skills in:
+## About me
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- 🎓 Graduated from CCT College Dublin with a BSc (Hons) in Computing Science and IT, 2:1
+- 🛡️ CompTIA Security+ and Microsoft Azure Fundamentals certified, with hands-on labs in cloud, networking and cybersecurity
+- 💻 Software development with Java and Spring Boot, and web interfaces built with React and Tailwind CSS
+- 🎨 Background in graphic design and marketing (Figma, Adobe Creative Suite) and a Google UX Design certificate, which brings a design-minded approach to my work
 
-With a background in graphic design, I'm familiar with tools like Figma and the Adobe suite, bringing a creative approach to the world of technology.
+## Skills
 
-🛡️ Furthermore, I'm deepening my knowledge in computer security, seeking a comprehensive understanding to contribute to more secure projects.
+- **Languages:** Java, JavaScript, HTML, CSS
+- **Backend:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA (Hibernate), Thymeleaf, Bean Validation, REST APIs, MongoDB, H2, Maven
+- **Frontend:** React, Vite, Tailwind CSS, Three.js (WebGL), responsive and bilingual (EN/PT) interfaces
+- **Cloud and infrastructure:** Microsoft Azure, Linux, Docker, VirtualBox
+- **Security and networking:** Kali Linux, Wireshark, Nmap, technical analysis and reporting
+- **Core concepts:** object-oriented programming, collections, file I/O, regular expressions, exception handling
+- **Tools:** Git, GitHub, Apache NetBeans, Figma, Adobe Creative Suite
 
-🚀 At the moment, I'm exploring job and internship opportunities, eager to apply my technical skills and creative mindset to challenging projects. In addition to my technical skills, I also have knowledge in marketing, allowing me to approach projects holistically.
+## Certifications
 
+- CompTIA Security+ (SY0-701), 2025
+- Microsoft Certified: Azure Fundamentals (AZ-900), 2025
+- Google UX Design Professional Certificate, 2025
+- Cisco Certified Network Associate (CCNA) - in progress
 
+## Currently
 
-🌐 Learn more about me and my work on my  LinkedIn [https://www.linkedin.com/in/kelvin-dumas-6b163634/)https://www.linkedin.com/in/kelvin-dumas-6b163634/.]
+Preparing for the Cisco CCNA certification. Open to job and internship opportunities in IT support, cloud, cybersecurity and software development, in Dublin or remote and hybrid.
 
+## Connect
 
-
-
+- Portfolio: [kelvindumas.com](https://kelvindumas.com)
+- LinkedIn: [linkedin.com/in/kelvin-dumas-it](https://www.linkedin.com/in/kelvin-dumas-it/)
